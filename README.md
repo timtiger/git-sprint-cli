@@ -1,2 +1,2 @@
-# git-flow-helper-cli
+# git-sprint-helper-cli
 Git Flow Helper
