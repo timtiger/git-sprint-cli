@@ -1,2 +1,2 @@
-# git-sprint-helper-cli
+# git-sprint-cli
 Git Sprint Helper
